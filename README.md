@@ -1,6 +1,6 @@
 # C_sharp
 
-Bem-vindo à jornada de aprendizado de C#! Este repositório contém uma abordagem estruturada para aprender C#, seguindo a ordem dos tutoriais da W3Schools. Os comentários estão em inglês, e os exercícios foram fornecidos pelo ChatGPT.
+Bem-vindo à minha jornada de aprendizado de C#! Este repositório contém uma abordagem estruturada do meu aprendizado com o C#, seguindo a ordem dos tutoriais da W3Schools. Os comentários estão em inglês, e os exercícios foram fornecidos pelo ChatGPT.
 
 ## Básico
 1. **01_Básico:** Introdução aos conceitos fundamentais.
@@ -44,11 +44,13 @@ Bem-vindo à jornada de aprendizado de C#! Este repositório contém uma abordag
 7. **POO_07_Polimorfismo:** Explorando polimorfismo.
 8. **POO_08_Propriedades:** Introdução a propriedades.
 
-Inglês:
+
+
+English:
 
 # C_sharp
 
-Welcome to the C# learning journey! This repository contains a structured approach to learning C#, following the order of W3Schools tutorials. The comments are in English, and exercises were provided by ChatGPT.
+Welcome to my C# learning journey! This repository contains a structured approach of my C# learning, following the order of W3Schools tutorials. The comments are in English, and exercises were provided by ChatGPT.
 
 ## Basics
 1. **01_Basics:** Introduction to the fundamental concepts.
